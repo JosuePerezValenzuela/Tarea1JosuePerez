@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Punto
+comment1.params=puntoX\ puntoY
+comment1.target=Punto(double,\ double)
+comment2.params=
+comment2.target=double\ getcoorX()
+comment3.params=
+comment3.target=double\ getcoorY()
+numComments=4
